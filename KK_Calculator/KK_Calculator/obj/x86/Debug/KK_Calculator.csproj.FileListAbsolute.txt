@@ -1,0 +1,16 @@
+d:\Karsan_Code\KK_Calculator\KK_Calculator\bin\Debug\KK_Calculator.exe
+d:\Karsan_Code\KK_Calculator\KK_Calculator\bin\Debug\KK_Calculator.pdb
+d:\Karsan_Code\KK_Calculator\KK_Calculator\obj\x86\Debug\KK_Calculator.Calc.resources
+d:\Karsan_Code\KK_Calculator\KK_Calculator\obj\x86\Debug\KK_Calculator.Properties.Resources.resources
+d:\Karsan_Code\KK_Calculator\KK_Calculator\obj\x86\Debug\KK_Calculator.csproj.GenerateResource.Cache
+d:\Karsan_Code\KK_Calculator\KK_Calculator\obj\x86\Debug\KK_Calculator.exe
+d:\Karsan_Code\KK_Calculator\KK_Calculator\obj\x86\Debug\KK_Calculator.pdb
+d:\Karsan_Code\KK_Calculator\KK_Calculator\obj\x86\Debug\KK_Calculator.csprojResolveAssemblyReference.cache
+C:\A_Karsan\Training\Karsan_Code\KK_Calculator\KK_Calculator\obj\x86\Debug\KK_Calculator.exe
+C:\A_Karsan\Training\Karsan_Code\KK_Calculator\KK_Calculator\obj\x86\Debug\KK_Calculator.pdb
+C:\A_Karsan\Training\Karsan_Code\KK_Calculator\KK_Calculator\bin\Debug\KK_Calculator.exe
+C:\A_Karsan\Training\Karsan_Code\KK_Calculator\KK_Calculator\bin\Debug\KK_Calculator.pdb
+C:\A_Karsan\Training\Karsan_Code\KK_Calculator\KK_Calculator\obj\x86\Debug\KK_Calculator.csprojResolveAssemblyReference.cache
+C:\A_Karsan\Training\Karsan_Code\KK_Calculator\KK_Calculator\obj\x86\Debug\KK_Calculator.Calc.resources
+C:\A_Karsan\Training\Karsan_Code\KK_Calculator\KK_Calculator\obj\x86\Debug\KK_Calculator.Properties.Resources.resources
+C:\A_Karsan\Training\Karsan_Code\KK_Calculator\KK_Calculator\obj\x86\Debug\KK_Calculator.csproj.GenerateResource.Cache

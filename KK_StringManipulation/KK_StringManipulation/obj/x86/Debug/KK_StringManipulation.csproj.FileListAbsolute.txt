@@ -1,0 +1,15 @@
+d:\Karsan_Code\KK_StringManipulation\KK_StringManipulation\bin\Debug\KK_StringManipulation.exe
+d:\Karsan_Code\KK_StringManipulation\KK_StringManipulation\bin\Debug\KK_StringManipulation.pdb
+d:\Karsan_Code\KK_StringManipulation\KK_StringManipulation\obj\x86\Debug\KK_StringManipulation.Form1.resources
+d:\Karsan_Code\KK_StringManipulation\KK_StringManipulation\obj\x86\Debug\KK_StringManipulation.Properties.Resources.resources
+d:\Karsan_Code\KK_StringManipulation\KK_StringManipulation\obj\x86\Debug\KK_StringManipulation.csproj.GenerateResource.Cache
+d:\Karsan_Code\KK_StringManipulation\KK_StringManipulation\obj\x86\Debug\KK_StringManipulation.exe
+d:\Karsan_Code\KK_StringManipulation\KK_StringManipulation\obj\x86\Debug\KK_StringManipulation.pdb
+C:\A_Karsan\Training\Karsan_Code\KK_StringManipulation\KK_StringManipulation\obj\x86\Debug\KK_StringManipulation.exe
+C:\A_Karsan\Training\Karsan_Code\KK_StringManipulation\KK_StringManipulation\obj\x86\Debug\KK_StringManipulation.pdb
+C:\A_Karsan\Training\Karsan_Code\KK_StringManipulation\KK_StringManipulation\bin\Debug\KK_StringManipulation.exe
+C:\A_Karsan\Training\Karsan_Code\KK_StringManipulation\KK_StringManipulation\bin\Debug\KK_StringManipulation.pdb
+C:\A_Karsan\Training\Karsan_Code\KK_StringManipulation\KK_StringManipulation\obj\x86\Debug\KK_StringManipulation.csprojResolveAssemblyReference.cache
+C:\A_Karsan\Training\Karsan_Code\KK_StringManipulation\KK_StringManipulation\obj\x86\Debug\KK_StringManipulation.Form1.resources
+C:\A_Karsan\Training\Karsan_Code\KK_StringManipulation\KK_StringManipulation\obj\x86\Debug\KK_StringManipulation.Properties.Resources.resources
+C:\A_Karsan\Training\Karsan_Code\KK_StringManipulation\KK_StringManipulation\obj\x86\Debug\KK_StringManipulation.csproj.GenerateResource.Cache
