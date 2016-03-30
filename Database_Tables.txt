@@ -1,0 +1,82 @@
+CREATE TABLE Users(		tpxID text PRIMARY KEY,FirstName text, LastName text,);
+CREATE TABLE Cards(		id UUID PRIMARY KEY,CardHolderName text, CardType text, BinRange int, ExpDate int,);
+CREATE TABLE Authorisations(	id UUID PRIMARY KEY,Card_ID UUID, Store int, Amount float, TillType int, AuxData text,);
+CREATE TABLE Stores(		StoreNumber int PRIMARY KEY, AddressID int, Status Text,);
+CREATE TABLE DmsGuids(		Store_ID UUID PRIMARY KEY, Hash text, Name text);
+CREATE TABLE Settlements(	id UUID PRIMARY KEY,Card_ID UUID, StoreNumber int, Amount float, TillType int, AuxData text,);
+
+
+
+
+**** Card Table
+
+CREATE TABLE Card(
+	id UUID PRIMARY KEY,
+	PaymentCardID  text,
+	PaymentCardToken text,
+	CardHolderName text,
+	ExpiryDate int,
+	AddressID text,
+time time,
+);
+
+CREATE TABLE Card(
+	PaymentCardToken text,
+	CardHolderName text,
+	ExpiryDate text,
+	AddressID int,
+);
+
+
+
+***** Auth Table
+CREATE TABLE Auth (
+	PaymentCardID UUID PRIMARY KEY,
+	AuthorisationCode int,
+	PaymentCardToken  text,
+	Authorisaton_amount int,
+	countryCode text,
+	CurrencyCode int,
+	Auth_RequestId int,
+	Auth_RequestToken int,
+	TerminalID int,
+	AcquirerID int,
+	AuthDateTime date,
+	MerchantID int, 
+	StoreID int, 
+	PosId int,
+	PosEM int,
+	PaymentTerminalType text
+);
+
+
+***** Settlement Table
+CREATE TABLE Settlement(
+	PaymentReference UUID PRIMARY KEY,
+	RequestId text,
+	RequestToken text,
+	AuthRequestId int,
+	AuthRequestToken text,
+	AuthorisationCode text,
+	PaymentCardToken text,
+	BusinessId text,
+	ChannelId text,
+	CountryCode text,
+	CurrencyCode text,
+	StoreID int,
+	MerchantId int,
+	SettledAmount int,
+	TransactionAmount int,
+	SettlementDateTime date,
+	PosID int,
+	EPOSNumber int,
+	CashierNumber int,
+	ReceiptNumber int,
+	TillType int,
+);
+
+INSERT INTO Users(tpxID,FirstName,LastName) VALUES('xg47a','Karsan1','kerai1');
+
+
+
+
